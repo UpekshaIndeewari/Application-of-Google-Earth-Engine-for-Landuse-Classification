@@ -81,9 +81,13 @@ Visualization: The classified images were visualized using geographic informatio
 ### Results
 
 The results of this research include:
+**Land Use Classification Map**: A detailed map showing the classified land cover for the Münster region for the year 2023. The map distinguishes between urban, agricultural, water, and vegetation areas.
 
-- **Land Use Classification Map**: A detailed map showing the classified land cover for the Münster region for the year 2023. The map distinguishes between urban, agricultural, water, and vegetation areas.
-  ![https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/2023.png] 
+Map for 2016
+  ![Landuse Classification Map for 2016](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/2016.png))
+
+Map for 2023
+  ![Landuse Classification Map for 2023](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/2023.png)
 
 - NDVI and NDBI Analysis: Temporal analysis of NDVI and NDBI values to observe vegetation health and built-up area dynamics from 2016 to 2023.
 - Accuracy Assessment: The accuracy of the classification was assessed using confusion matrices and Kappa statistics to measure the overall classification accuracy.
