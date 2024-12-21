@@ -81,13 +81,38 @@ Visualization: The classified images were visualized using geographic informatio
 ### Results
 
 The results of this research include:
+
+**RGB Map**: True color composite map
+
+**Composite Map**
+
+![composite Map](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/Compo.png)
+
 **Land Use Classification Map**: A detailed map showing the classified land cover for the Münster region for the year 2023. The map distinguishes between urban, agricultural, water, and vegetation areas.
 
-Map for 2016
-  ![Landuse Classification Map for 2016](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/2016.png))
+**Map for 2016**
 
-Map for 2023
-  ![Landuse Classification Map for 2023](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/2023.png)
+![Landuse Classification Map for 2016](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/2016.png)
 
-- NDVI and NDBI Analysis: Temporal analysis of NDVI and NDBI values to observe vegetation health and built-up area dynamics from 2016 to 2023.
-- Accuracy Assessment: The accuracy of the classification was assessed using confusion matrices and Kappa statistics to measure the overall classification accuracy.
+**Map for 2023**
+
+![Landuse Classification Map for 2023](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/2023.png)
+
+**NDVI and NDBI Analysis**: Temporal analysis of NDVI and NDBI values to observe vegetation health and built-up area dynamics from 2016 to 2023.
+
+**NDVI Map**
+
+![NDVI Map](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/2016_NDVI.png)
+
+**NDBI Map**
+
+![NDBI Map](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/NDBI.png)
+
+**Time series Analysis**: Relevent plots were generated for NDVI and NDBI changes over time
+
+**NDVI**
+
+**NDBI**
+
+**Accuracy Assessment**: The accuracy of the classification was assessed using confusion matrices to measure the overall classification accuracy.
+  
