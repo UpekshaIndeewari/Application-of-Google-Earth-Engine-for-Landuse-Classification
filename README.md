@@ -1,4 +1,4 @@
-## Application of Google Earth Engine for Landuse Classification and Monitoring Change detection
+## Application of Google Earth Engine (GEE) for Landuse Classification and Monitoring Change Detection
 
 ### Content
 - [Introduction](#introduction)
