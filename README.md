@@ -56,11 +56,15 @@ Layers for the clipped images for 2023 and 2016 are added to the map for compari
 Several remote sensing indices were calculated to help distinguish between land cover types:
 
 **NDVI (Normalized Difference Vegetation Index)**: NDVI is a measure of vegetation health and density. Higher NDVI values indicate the presence of vegetation, while lower values suggest barren land or built-up areas.
+
 *NDVI= (B8+B4)/ (B8−B4)*
+
 ​where B8 is the near-infrared band, and B4 is the red band.
 
 **NDBI (Normalized Difference Built-up Index)**: NDBI helps identify built-up or urban areas. Higher NDBI values are indicative of urbanized land, while lower values represent non-urban areas.
+
 *NDBI= (B11+B8)/ (B11−B8)*
+
 where B11 is the shortwave infrared band, and B8 is the near-infrared band.
 
 #### 5. Supervised Classification
