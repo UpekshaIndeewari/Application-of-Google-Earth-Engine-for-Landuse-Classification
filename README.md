@@ -7,6 +7,7 @@
 - [Results](#results)
 - [Discussion](#discussion)
 - [Conclusion](#conclusion)
+- [References](#references)
 
 
 ### Introduction
@@ -196,8 +197,11 @@ This study demonstrates the effectiveness of using Sentinel-2 satellite data for
 - Agricultural Sustainability: Promote practices that prevent excessive land conversion and ensure soil and water conservation.
 - Enhancing Vegetation: Continue afforestation and conservation programs to improve ecological health and mitigate climate change impacts.
 
+### References
 
-                                                                                                                         #Thank You
+- [End-to-End Google Earth Engine (Full Course)](https://courses.spatialthoughts.com/end-to-end-gee.html)
+- [Get Started with Earth Engine](https://developers.google.com/earth-engine/guides/getstarted)
+                                                                                                                 
 
 
 
