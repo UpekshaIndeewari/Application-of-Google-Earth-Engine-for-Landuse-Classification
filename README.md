@@ -3,6 +3,10 @@
 ### Content
 - [Introduction](#introduction)
 - [Objectives](#objectives)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Discussion](#discussion)
+- [Conclusion](#conclusion)
 
 
 ### Introduction
