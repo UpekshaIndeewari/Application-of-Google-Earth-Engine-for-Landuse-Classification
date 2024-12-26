@@ -111,10 +111,12 @@ The results of this research include:
 **Time series Analysis**: Relevent plots were generated for NDVI and NDBI changes over time
 
 **NDVI**
+
 In 2023, found that the increment of the NDVI values. NDVI values are vary between 0.45 to 0.55
 ![NDVI time series plot](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/ee-chart.png)
 
 **NDBI**
+
 ![NDBI time seris plot](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/img/ee-chart%20(1).png)
 
 **Accuracy Assessment**: The accuracy of the classification was assessed using confusion matrices to measure the overall classification accuracy.
@@ -142,22 +144,22 @@ After performing the land use classification, it's important to calculate the ar
 
 The comparison of land use between 2016 and 2023 reveals significant trends in land cover dynamics:
 
-Urban Expansion:
+**Urban Expansion:**
 
 - The area under urban land use increased from 434 sq. km in 2016 to 498 sq. km in 2023, showing a growth of 64 sq. km.
 - This indicates significant urban development, potentially driven by population growth, industrialization, or infrastructural expansion.
 
-Agricultural Growth:
+**Agricultural Growth:**
 
 - Agricultural land expanded from 4863 sq. km in 2016 to 4925 sq. km in 2023, reflecting a growth of 62 sq. km.
 - This increase may be due to conversion of other land use classes (e.g., vegetation) to support food production and economic development.
 
-Reduction in Water Bodies:
+**Reduction in Water Bodies:**
 
 - Water-covered areas decreased from 56 sq. km in 2016 to 43 sq. km in 2023, showing a reduction of 13 sq. km.
 - This decline could result from climate change, urban encroachment, or agricultural expansion affecting water resources.
 
-Increase in Vegetation:
+**Increase in Vegetation:**
 
 - Vegetation cover grew from 1404 sq. km in 2016 to 1517 sq. km in 2023, indicating an increase of 113 sq. km.
 - This growth might be attributed to reforestation programs, natural vegetation regrowth, or improved land management practices.
@@ -168,13 +170,6 @@ Increase in Vegetation:
 - The loss of water bodies is a critical concern that may affect biodiversity, water availability, and ecosystem services.
 - The increase in vegetation is a positive trend, suggesting efforts towards environmental restoration or natural ecological processes at play.
 
-**Recommendations**
-
-- Sustainable Urban Planning: Implement policies to manage urban growth while preserving natural resources.
-- Water Conservation Initiatives: Protect and restore water bodies through conservation strategies and sustainable water use practices.
-- Agricultural Sustainability: Promote practices that prevent excessive land conversion and ensure soil and water conservation.
-- Enhancing Vegetation: Continue afforestation and conservation programs to improve ecological health and mitigate climate change impacts.
-
 ### Discussion
 
 The results indicate that Sentinel-2 imagery, when processed with appropriate indices and machine learning techniques, can provide an effective tool for land use classification. The **Random Forest classifier** performed well in classifying land cover types, with an accuracy rate above 85%. The NDVI and NDBI indices helped enhance the classification by providing additional spectral information related to vegetation and urban areas.
@@ -183,7 +178,17 @@ Temporal analysis showed significant urban growth in the Münster region from 20
 
 ### Conclusion
 
-This research demonstrates the effectiveness of using Sentinel-2 satellite data for land use classification and temporal analysis. The project provides valuable insights into urban expansion, vegetation loss, and water body dynamics in the Münster region, which can be useful for urban planning and environmental monitoring. Future work could explore the use of other machine learning algorithms and incorporate more granular data for better classification accuracy.
+This study demonstrates the effectiveness of using Sentinel-2 satellite data for land use classification and temporal analysis. The project provides valuable insights into urban expansion, vegetation loss, and water body dynamics in the Münster region, which can be useful for urban planning and environmental monitoring. Future work could explore the use of other machine learning algorithms and incorporate more granular data for better classification accuracy.
+
+**Recommendations**
+
+- Sustainable Urban Planning: Implement policies to manage urban growth while preserving natural resources.
+- Water Conservation Initiatives: Protect and restore water bodies through conservation strategies and sustainable water use practices.
+- Agricultural Sustainability: Promote practices that prevent excessive land conversion and ensure soil and water conservation.
+- Enhancing Vegetation: Continue afforestation and conservation programs to improve ecological health and mitigate climate change impacts.
+
+
+                                                                                                     #---------------Thank You------------------- 
 
 
 
