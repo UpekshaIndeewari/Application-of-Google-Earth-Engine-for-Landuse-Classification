@@ -1,5 +1,10 @@
 ## Application of Google Earth Engine for Landuse Classification and Monitoring Change detection
 
+### Content
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+
+
 ### Introduction
 
 Land use classification refers to the process of identifying and categorizing different types of land cover based on satellite or aerial imagery. This classification provides essential information for urban planning, environmental monitoring, and land management. The availability of high-resolution satellite data, such as that from Sentinel-2, allows for more accurate and detailed land use mapping.
@@ -188,7 +193,7 @@ This study demonstrates the effectiveness of using Sentinel-2 satellite data for
 - Enhancing Vegetation: Continue afforestation and conservation programs to improve ecological health and mitigate climate change impacts.
 
 
-                                                                                                     #---------------Thank You------------------- 
+                                                                                                                         #Thank You
 
 
 
