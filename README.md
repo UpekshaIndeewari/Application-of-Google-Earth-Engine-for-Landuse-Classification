@@ -14,9 +14,13 @@ This project utilizes Sentinel-2 imagery and the computational power of GEE to c
 
 ## **Folder Structure**
 📂 img
+
 📄 Project Description.md
+
 📄 README.md
+
 📄 Workflow.png
+
 📄 project.js
 
 -  **img:** includes all images from project result.
