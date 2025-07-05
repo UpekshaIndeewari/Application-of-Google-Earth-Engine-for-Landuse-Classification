@@ -19,9 +19,9 @@ This project utilizes Sentinel-2 imagery and the computational power of GEE to c
 📄 Workflow.png
 📄 project.js
 
-- **img:** includes all images from project result.
-- **Project Description.md:** Description about project.
-- **project.js:** includes javascript code for project
+-  **img:** includes all images from project result.
+-  **Project Description.md:** Description about project.
+-  **project.js:** includes javascript code for project
 
 **For a comprehensive description of the project, please refer to the [link provided](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/Project%20Description.md)**
 
