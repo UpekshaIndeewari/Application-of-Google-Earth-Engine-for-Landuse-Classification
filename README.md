@@ -9,6 +9,28 @@ This project utilizes Sentinel-2 imagery and the computational power of GEE to c
 - **Google Earth Engine (GEE)** is a cloud-based geospatial processing platform that enables large-scale analysis of satellite imagery and geospatial datasets. It provides powerful tools for data access, preprocessing, visualization, and the implementation of machine learning algorithms, making it ideal for land use classification and change detection. GEE supports scripting and automation of spatial analysis tasks using both JavaScript and Python APIs, streamlining the processing of multi-temporal satellite data such as Sentinel-2. 
 - **ArcGIS Pro** was utilized to visualize and analyze the classified land use maps exported from GEE. It facilitated the calculation of land cover area statistics and the creation of high-quality cartographic outputs for presentation and interpretation.
 
+## **Workflow**
+![Workflow](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/Workflow.png)
+
+## **Folder Structure**
+📂 img
+📄 Project Description.md
+📄 README.md
+📄 Workflow.png
+📄 project.js
+
+- **img:** includes all images from project result.
+- **Project Description.md:** Description about project.
+- **project.js:** includes javascript code for project
+
+**For a comprehensive description of the project, please refer to the [link provided](https://github.com/UpekshaIndeewari/Application-of-Google-Earth-Engine-for-Landuse-Classification/blob/main/Project%20Description.md)**
+
+## **Contributing**
+Contributions are welcome! Please open an **issue** or submit a **pull request**.
+
+## **License**
+This repository is open-source under the MIT License.
+
 
 
 
